@@ -1,3 +1,4 @@
+# [live preview](https://mx-99.github.io/Etch-a-Sketch/)
 # Etch-a-Sketch
 
 This is JavaScript Dynamic Grid Creator allows you to dynamically create a grid of cells within a specified container element on a webpage. Each cell in the grid changes its background color randomly upon mouseover, creating a dynamic visual effect.
